@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 60" role="img" aria-label="wHotel">
+  <style>
+    .word{fill:#fed136;font-family:Montserrat, Poppins, "Segoe UI", Arial, sans-serif;font-weight:900;letter-spacing:0.02em}
+  </style>
+  <g transform="skewX(-6)">
+    <text class="word" x="6" y="46" font-size="52">w</text>
+    <text class="word" x="60" y="46" font-size="52">H</text>
+    <text class="word" x="112" y="46" font-size="52">o</text>
+    <text class="word" x="158" y="46" font-size="52">t</text>
+    <text class="word" x="190" y="46" font-size="52">e</text>
+    <text class="word" x="232" y="46" font-size="52">l</text>
+  </g>
+</svg>
